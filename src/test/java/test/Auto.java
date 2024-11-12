@@ -28,7 +28,7 @@ class Auto{
 
         if(this.registro == this.motor.registro){
 
-            for(int i = 0, i < this.asientos.lenght; i++){
+            for(int i = 0; i < this.asientos.length; i++){
 
                 if(asientos[i] != null){
 
